@@ -94,7 +94,7 @@ En esta etapa se realizan las tareas necesarias para mantener y mejorar el softw
 
 
 
-!\[Padre](https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTMghXNSGbcKUtqoFkQjdkS1VFF8ycLCGHhlo6HPvQgqSA0fMe3WyIFy9GTIzRCc7fRCT2cN76RPSxvw\_g)
+!\[Padre](https://cdn-5.motorsport.com/images/amp/Y9lNwbq2/s1000/fernando-alonso-aston-martin-r.webp)
 
 
 
@@ -103,8 +103,4 @@ En esta etapa se realizan las tareas necesarias para mantener y mejorar el softw
 
 
 \[Repositorio del proyecto](https://github.com/AntonCues/1DAMP\_LagoCastro\_RaulAngel)
-
-
-
-
 
