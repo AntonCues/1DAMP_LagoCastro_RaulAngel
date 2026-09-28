@@ -1,8 +1,8 @@
-\# Introducción al software
+# Introducción al software
 
 
 
-\## ¿Qué es un programa informático?
+## ¿Qué es un programa informático?
 
 
 
@@ -14,11 +14,11 @@ Los programas pueden ser muy diferentes entre sí. Por ejemplo, un navegador web
 
 
 
-\## Código fuente, código objeto y código ejecutable
+## Código fuente, código objeto y código ejecutable
 
 
 
-\### Código fuente
+### Código fuente
 
 
 
@@ -26,7 +26,7 @@ El código fuente es el conjunto de instrucciones que escribe un programador uti
 
 
 
-\### Código objeto
+### Código objeto
 
 
 
@@ -34,7 +34,7 @@ El código objeto es el resultado que se obtiene al traducir o compilar el códi
 
 
 
-\### Código ejecutable
+### Código ejecutable
 
 
 
@@ -42,11 +42,11 @@ El código ejecutable es el resultado preparado para que el sistema operativo pu
 
 
 
-\## Etapas del desarrollo del software
+## Etapas del desarrollo del software
 
 
 
-\### 1. Análisis y requisitos
+### 1. Análisis y requisitos
 
 
 
@@ -54,7 +54,7 @@ En esta etapa se identifican las necesidades del usuario y se determina qué deb
 
 
 
-\### 2. Diseño
+### 2. Diseño
 
 
 
@@ -62,7 +62,7 @@ En esta etapa se define cómo se va a construir el software. Se establece la arq
 
 
 
-\### 3. Implementación
+### 3. Implementación
 
 
 
@@ -70,7 +70,7 @@ En esta etapa se desarrolla el software utilizando uno o varios lenguajes de pro
 
 
 
-\### 4. Pruebas
+### 4. Pruebas
 
 
 
@@ -78,7 +78,7 @@ En esta etapa se comprueba que el software funciona correctamente y que cumple l
 
 
 
-\### 5. Despliegue
+### 5. Despliegue
 
 
 
@@ -86,7 +86,7 @@ En esta etapa el software se instala, publica o pone a disposición de los usuar
 
 
 
-\### 6. Mantenimiento
+### 6. Mantenimiento
 
 
 
@@ -94,13 +94,13 @@ En esta etapa se realizan las tareas necesarias para mantener y mejorar el softw
 
 
 
-!\[Padre](https://cdn-5.motorsport.com/images/amp/Y9lNwbq2/s1000/fernando-alonso-aston-martin-r.webp)
+![Padre](https://cdn-5.motorsport.com/images/amp/Y9lNwbq2/s1000/fernando-alonso-aston-martin-r.webp)
 
 
 
-\## Repositorio
+## Repositorio
 
 
 
-\[Repositorio del proyecto](https://github.com/AntonCues/1DAMP\_LagoCastro\_RaulAngel)
+[Repositorio del proyecto](https://github.com/AntonCues/1DAMP\_LagoCastro\_RaulAngel)
 
