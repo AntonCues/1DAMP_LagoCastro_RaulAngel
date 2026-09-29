@@ -84,7 +84,7 @@ En esta etapa se comprueba que el software funciona correctamente y que cumple l
 
 En esta etapa el software se instala, publica o pone a disposición de los usuarios en el entorno donde va a utilizarse. Puede incluir la configuración de servidores, bases de datos y otros elementos necesarios para su funcionamiento.
 
-
+ME duelen los pies
 
 ### 2.6. Mantenimiento
 
