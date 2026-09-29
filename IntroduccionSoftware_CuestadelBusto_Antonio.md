@@ -1,8 +1,8 @@
-# Introducción al software
+# 1. Introducción al software
 
 
 
-## ¿Qué es un programa informático?
+## 1.1. ¿Qué es un programa informático?
 
 
 
@@ -14,11 +14,11 @@ Los programas pueden ser muy diferentes entre sí. Por ejemplo, un navegador web
 
 
 
-## Código fuente, código objeto y código ejecutable
+## 1.2. Código fuente, código objeto y código ejecutable
 
 
 
-### Código fuente
+### 1.2.1. Código fuente
 
 
 
@@ -26,7 +26,7 @@ El código fuente es el conjunto de instrucciones que escribe un programador uti
 
 
 
-### Código objeto
+### 1.2.2. Código objeto
 
 
 
@@ -34,7 +34,7 @@ El código objeto es el resultado que se obtiene al traducir o compilar el códi
 
 
 
-### Código ejecutable
+### 1.2.3. Código ejecutable
 
 
 
@@ -42,11 +42,11 @@ El código ejecutable es el resultado preparado para que el sistema operativo pu
 
 
 
-## Etapas del desarrollo del software
+## 2. Etapas del desarrollo del software
 
 
 
-### 1. Análisis y requisitos
+### 2.1. Análisis y requisitos
 
 
 
@@ -54,7 +54,7 @@ En esta etapa se identifican las necesidades del usuario y se determina qué deb
 
 
 
-### 2. Diseño
+### 2.2. Diseño
 
 
 
@@ -62,7 +62,7 @@ En esta etapa se define cómo se va a construir el software. Se establece la arq
 
 
 
-### 3. Implementación
+### 2.3. Implementación
 
 
 
@@ -70,7 +70,7 @@ En esta etapa se desarrolla el software utilizando uno o varios lenguajes de pro
 
 
 
-### 4. Pruebas
+### 2.4. Pruebas
 
 
 
@@ -78,7 +78,7 @@ En esta etapa se comprueba que el software funciona correctamente y que cumple l
 
 
 
-### 5. Despliegue
+### 2.5. Despliegue
 
 
 
@@ -86,7 +86,7 @@ En esta etapa el software se instala, publica o pone a disposición de los usuar
 
 
 
-### 6. Mantenimiento
+### 2.6. Mantenimiento
 
 
 
@@ -98,7 +98,7 @@ En esta etapa se realizan las tareas necesarias para mantener y mejorar el softw
 
 
 
-## Repositorio
+## 3. Repositorio
 
 
 
